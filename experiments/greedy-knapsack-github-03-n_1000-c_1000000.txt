@@ -1,0 +1,6 @@
+Algorithm: Greedy
+Dataset: ..\data\knapsack_github_03.in
+Item count: 1000
+Capacity: 1000000
+Optimal value: 605344
+Time: 0.161 ms

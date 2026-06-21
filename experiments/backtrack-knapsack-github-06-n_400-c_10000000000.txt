@@ -1,0 +1,6 @@
+Algorithm: Backtrack
+Dataset: ..\data\knapsack_github_06.in
+Item count: 400
+Capacity: 10000000000
+Optimal value: 6000001946
+Time: 1114.645 ms

@@ -1,0 +1,6 @@
+Algorithm: Dynamic Programming           
+Dataset: ..\data\knapsack_github_04.in
+Item count: 400         
+Capacity: 1000000           
+Optimal value: 602022
+Time: 765.72 ms
